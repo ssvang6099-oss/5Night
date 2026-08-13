@@ -20,8 +20,13 @@ HOW TO RUN APPLICATION:
 11)To stop the application, close the game window or click the red Stop button in Visual Studio.
 
 IMPORTANT FILE NEEDED TO GET GRADE:
+
 **** Development document and decision log
+
 **** Walkthrough and workbook implementation evidence
+
 ****MeaningFul Git Commit history
+
 ****Final executable or release package
+
 ****Discord progress reports and screenshots
