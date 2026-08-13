@@ -1,0 +1,77 @@
+# Development Document
+
+## Project Name
+Five Nights at Freddy’s 
+
+## Project Purpose
+The purpose of this project is to create an interactive WPF adventure
+game using Visual Basic in Visual Studio. The player explores rooms,
+avoids enemies, collects items, and tries to survive.
+
+## Software and Tools
+- Visual Studio 2022
+- Visual Basic (VB.NET)
+- WPF
+- XAML for the user interface
+- Git and GitHub for version control
+
+## Features Developed
+- North, south, east, and west movement buttons
+- Different rooms and room descriptions
+- Player and enemy health systems
+- Attack button and combat system
+- NPC dialogue and inventory displays
+- Save and load features
+
+## Testing and Debugging
+I tested each movement button to make sure it opened the correct room.
+I also tested the health bars, enemy attacks, inventory, and room
+descriptions. I fixed errors involving missing or duplicated XAML
+control names.
+
+
+# Decision Log
+
+## Decision 1: Use WPF
+Date: August 10, 2026
+
+Decision:
+I chose WPF because it allows me to design the game interface with
+XAML and program its behavior with Visual Basic.
+
+Reason:
+WPF makes it easier to organize buttons, labels, images, health bars,
+and other game controls.
+
+## Decision 2: Use Direction Buttons
+Date: August 11, 2026
+
+Decision:
+I used north, south, east, and west buttons for player movement.
+
+Reason:
+Direction buttons make the game easy to understand and allow the
+player to move between rooms.
+
+## Decision 3: Store Rooms in a Dictionary
+Date: August 12, 2026
+
+Decision:
+I stored the rooms in a Dictionary using each room’s name as its key.
+
+Reason:
+This allows the program to find rooms quickly when the player selects
+a direction.
+
+## Decision 4: Use GitHub
+Date: August 13, 2026
+
+Decision:
+I used Git and GitHub to save different versions of my application.
+
+Reason:
+GitHub provides evidence of my progress and allows me to restore
+earlier versions if something goes wrong.
+
+
+
