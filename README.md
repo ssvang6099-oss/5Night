@@ -8,15 +8,25 @@ HOW TO RUN APPLICATION:
 
 
 1)Open Visual Studio 2022.
+
 2)Select Open a project or solution.
+
 3)Find your project folder and open the 
+
 4)In Solution Explorer, right-click your project name.
+
 5)Select Set as Startup Project.
+
 6)At the top, confirm the build setting says Debug.
+
 7)Select Build → Build Solution.
+
 8)Check the Error List at the bottom. Fix any red errors before continuing.
+
 9)Click the green Start button at the top, or press F5.
+
 10)Your game window should open. Test the movement, attack, health, dialogue, and inventory controls.
+
 11)To stop the application, close the game window or click the red Stop button in Visual Studio.
 
 IMPORTANT FILE NEEDED TO GET GRADE:
