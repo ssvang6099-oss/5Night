@@ -11,7 +11,7 @@ HOW TO RUN APPLICATION:
 
 2)Select Open a project or solution.
 
-3)Find your project folder and open the 
+3)Find your project folder and click on the project name.
 
 4)In Solution Explorer, right-click your project name.
 
