@@ -1,0 +1,29 @@
+
+GIT COMMIT HISTORY:
+
+ Created an WPF application 
+Copy and paste the code professor had on the tutorial video.
+Had Over 65 errors.
+Open PDF file for finishing project and start adding missing code.
+Deleted old code from exe log
+Add part of code from PDF file 
+Error started to come down
+After all the missing code and mis spelling word and period needed it came down to 9 errors.
+error on 'txtRoomDescription, I fix it by going into my MainWindow.xaml and adding TextBox x;Name="txtRoomDescription" TextWrapping="Wrap"IsReady="True"/>
+error pnlDialogue fix it by going into MainWindow.xaml and adding StackPanel x:name "pnlDialogue"Visibility="Collapsed"
+TextBlock  x:Name="txtDialogue"Foreground=white
+TextWrapping Margin Button x:Name="btnCloseDialogue " Content="Close Dialogue"
+error lblNpcName fix going into MainWindow.xaml and adding Label x:Name="lblNpcName"
+Content="NPC Name" Foreground FontSize FontWeight Padding Margin
+UI button not working..
+MainWindow_Loaded add Handles Me loaded
+btnAttack_click add Handles btnAttack.click
+btnTalkToNpc_Click add Handles btnTalkToNpc.click
+btncloseDialogue_click add handles btnCloseDialogue.click
+btnsave_click add Handles btnsave.click
+btngonorth add handles btnNorth.click
+btnSouth_click add Handles btnSouth.click
+btnEast_click add Handles btnEast.click
+btnWest_click add Btnwest.click
+Add My png pix Ui interface
+
