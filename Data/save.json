@@ -1,0 +1,15 @@
+{
+  "Name": "Aela",
+  "Health": 37,
+  "MaxHealth": 100,
+  "AttackPower": 15,
+  "Gold": 30,
+  "CurrentRoom": "Welcome To Freddy Fazbear's Pizza Place",
+  "Inventory": [
+    "Iron Sword",
+    "Health Potion",
+    "Ancient Key",
+    "Ancient Key",
+    "Rat Tail"
+  ]
+}
